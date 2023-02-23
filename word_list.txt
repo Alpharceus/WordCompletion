@@ -1,0 +1,10 @@
+hello
+world
+Python
+programming
+autocorrect
+algorithm
+data
+science
+machine
+learning
